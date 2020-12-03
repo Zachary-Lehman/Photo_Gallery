@@ -1,42 +1,42 @@
-.small{
-width: 200px;
-height: 200px;
-object-fit: cover;
-border: 5px double #E5AA4B; 
-margin-left: 25%;
+.small {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 5px double #E5AA4B; 
+    margin-left: 25%;
 }
 
-figcaption{
-margin-left: 25%;
-width: 200px;
+figcaption {
+    margin-left: 25%;
+    width: 200px;
 }
 
-img{
-border: 10px double #E5AA4B;
+img {
+    border: 10px double #E5AA4B;
 }
 
-header{
-text-align: center;
-border: 7px solid#FFCA76; 
+header {
+    text-align: center;
+    border: 7px solid#FFCA76; 
 }
 
-h1{
-font-size: xx-large;
+h1 {
+    font-size: xx-large;
 }
 
-p{
-font-size: medium;
+p {
+    font-size: medium;
 }
 
-body{
-font-family: Gill Sans, sans-serif;
-background-color: #ffbd54;
-color: #24234a;
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: #ffbd54;
+    color: #24234a;
 }
 
-figure{
-border-radius: 25px;
-border: 3px solid #FFCA76;
-width: 30%;
-height: 125%;
+figure {
+    border-radius: 25px;
+    border: 3px solid #FFCA76;
+    width: 30%;
+    height: 125%;
 }

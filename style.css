@@ -53,5 +53,7 @@ figure {
 .navbar {
     color: #24234a;
     font-family: Gill Sans, sans-serif;
+    margin: auto;
+    width: 50%;
 }
 

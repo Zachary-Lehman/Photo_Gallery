@@ -51,8 +51,9 @@ figure {
 }
 
 .navbar {
-    color: #24234a;
+    color: #131245;
     font-family: Gill Sans, sans-serif;
+    font-weight: bold;
 }
 #navhome {
     text-align: center;
